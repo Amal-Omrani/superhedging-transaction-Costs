@@ -1,0 +1,8 @@
+# Environment in which the results of the paper were produced (Python 3.13)
+numpy==2.3.4
+pandas==2.3.3
+scipy==1.16.2
+matplotlib==3.10.7
+seaborn==0.13.2
+yfinance==0.2.66
+Jinja2==3.1.6
